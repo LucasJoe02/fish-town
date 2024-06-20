@@ -1,0 +1,13 @@
+{
+  "name": "fish-town",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lucas Redding",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "express": "^4.19.2"
+  }
+}

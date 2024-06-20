@@ -19,12 +19,12 @@ This webapp will contain information about me, my projects and anything I am int
 
 ### Executing program
 
-* Use the command line to navigate to directory containing the extracted 'fish-town-main' directory
+* Use the command line to navigate to directory containing the extracted 'fish-town' directory
 * Run the below command to run the webapp locally
 ```
-browser-sync 'fish-town-main' --startPath '/html/' -w
+browser-sync 'fish-town' --startPath '/html/' -w
 ```
-* Change 'fish-town-main' with whatever you have named the project directory
+* Change 'fish-town' with whatever you have named the project directory
 
 ## Help
 
